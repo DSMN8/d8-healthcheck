@@ -1,0 +1,27 @@
+{
+    "name": "d8-healthcheck",
+    "version": "0.1.4",
+    "description": "Health Check route and redirect",
+    "main": "index.js",
+    "scripts": {
+        "test": "lab test/"
+    },
+    "engines" : {
+        "node" : ">=v4.4.3"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DSMN8/d8-healthcheck"
+    },
+    "keywords": [
+        "activity",
+        "client"
+    ],
+    "author": {
+        "name": "DSMN8",
+        "email": "admin@dsmn8.com"
+    },
+    "license": "MIT",
+    "homepage": "https://github.com/DSMN8/d8-healthcheck#readme",
+    "dependencies": {}
+}
